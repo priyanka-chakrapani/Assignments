@@ -1,0 +1,6 @@
+C:\Users\priyanka.chakrapani\Desktop\Training\jsassignment\jsassign\jsassign\bin\Debug\jsassign.dll
+C:\Users\priyanka.chakrapani\Desktop\Training\jsassignment\jsassign\jsassign\bin\Debug\jsassign.pdb
+C:\Users\priyanka.chakrapani\Desktop\Training\jsassignment\jsassign\jsassign\obj\Debug\jsassign.csprojAssemblyReference.cache
+C:\Users\priyanka.chakrapani\Desktop\Training\jsassignment\jsassign\jsassign\obj\Debug\jsassign.csproj.CoreCompileInputs.cache
+C:\Users\priyanka.chakrapani\Desktop\Training\jsassignment\jsassign\jsassign\obj\Debug\jsassign.dll
+C:\Users\priyanka.chakrapani\Desktop\Training\jsassignment\jsassign\jsassign\obj\Debug\jsassign.pdb
